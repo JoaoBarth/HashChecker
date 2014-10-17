@@ -1,0 +1,4 @@
+HashChecker
+===========
+
+Spellcheck via HASH
